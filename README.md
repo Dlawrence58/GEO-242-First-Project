@@ -22,3 +22,6 @@ Andrew Lawrence
 
 ## Raster Image Analysis
 - [Map of Oxford Ohio](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Raster%20Image%20Analysis/Topography%20of%20Oxford%2C%20OH.png)
+
+## 3D Mapping
+- [Learning to 3D Map] (https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/3d%20Mapping/IMG_8648.jpg)
