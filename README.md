@@ -8,8 +8,8 @@ Andrew Lawrence
 
 ## Basic Mapping
 
-- [First map in QGIS](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Basic-Mapping/age-index-mapping.ipynb)))
-- [Map the age index based on 2000 census data](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Basic-Mapping/age-index-mapping.ipynb))
+- [First map in QGIS](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Basic-Mapping/age-index-mapping.ipynb)
+- [Map the age index based on 2000 census data](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Basic-Mapping/age-index-mapping.ipynb)
 
 ## Map Coordinate Basics
 
@@ -22,4 +22,4 @@ https://colab.research.google.com/drive/13uKLOozTKMMiwCCJ4zNrPhQcLMItSC2K#scroll
 - [https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/spatial-analysis/Spatial%20analysis%20week_10_assignment_template.ipynb]
 
 ## Raster Image Analysis
-- [https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Raster%20Image%20Analysis/Topography%20of%20Oxford%2C%20OH.png]
+- [Map of Oxford Ohio](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Raster%20Image%20Analysis/Topography%20of%20Oxford%2C%20OH.png)
