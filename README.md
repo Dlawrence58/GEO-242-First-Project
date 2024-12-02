@@ -17,3 +17,7 @@ Andrew Lawrence
 - [Georeference a 1960s Miami University campus map](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/map-coordinate-basic/understanding-coordinates.ipynb)
 Map of the school-age children per 1,000 people in Ohio
 https://colab.research.google.com/drive/13uKLOozTKMMiwCCJ4zNrPhQcLMItSC2K#scrollTo=knQezaT0XILw
+
+## Spatial Mapping 
+- [https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/spatial-analysis/Spatial%20analysis%20week_10_assignment_template.ipynb]
+- 
