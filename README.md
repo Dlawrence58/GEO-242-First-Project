@@ -10,6 +10,7 @@ Andrew Lawrence
 
 - [First map in QGIS](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Basic-Mapping/age-index-mapping.ipynb)
 - [Map the age index based on 2000 census data](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Basic-Mapping/age-index-mapping.ipynb)
+- [North American River Basins](https://colab.research.google.com/drive/1bg3MVRLi0FdjL_IkWcVCNqfM6ZCssEAh#scrollTo=WVs4J1jQbESU)
 
 ## Map Coordinate Basics
 
