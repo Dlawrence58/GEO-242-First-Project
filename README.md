@@ -21,7 +21,7 @@ Andrew Lawrence
 - [Replicating John Snow's discovery on the cause of cholera spread in Soho, London](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/spatial-analysis/Spatial%20analysis%20week_10_assignment_template.ipynb)
 
 ## Raster Image Analysis
-- [Map of Oxford Ohio](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Raster%20Image%20Analysis/Topography%20of%20Oxford%2C%20OH.png)
+- [Topography of Oxford Ohio](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/Raster%20Image%20Analysis/Topography%20of%20Oxford%2C%20OH.png)
 
 ## 3D Mapping
-- [Learning to 3D Map] (https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/3d%20Mapping/IMG_8648.jpg)
+- [Learning to 3D Map](https://github.com/Dlawrence58/GEO-242-First-Project/blob/main/3d%20Mapping/IMG_8648.jpg)
